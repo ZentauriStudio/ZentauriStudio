@@ -65,7 +65,7 @@
 
 ---
 
-💼 Proyectos Destacados
+## 💼 Proyectos Destacados
 
 <div align="center">
 📱 SupaMalla - Plataforma de Inteligencia Académica
