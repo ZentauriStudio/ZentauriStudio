@@ -1,164 +1,294 @@
 <div align="center">
 
 <!-- ========== ENCABEZADO ANIMADO ========== -->
-
-<!-- Aquí se muestra el nombre de tu estudio y tu eslogan. -->
-
-<img width="100%" height="200" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D12,45,90%26height%3D200%26section%3Dheader%26text%3DZENTAURI%26fontSize%3D70%26fontColor%3Dfff%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DTransformando%2520Ideas%2520en%2520Experiencias%2520Digitales%26descAlignY%3D55%26descAlign%3D50%26descSize%3D18"/>
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,45,90&height=200&section=header&text=ZENTAURI%20STUDIO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales%20Extraordinarias&descAlignY=55&descAlign=50&descSize=16"/>
 
 <!-- ========== TEXTO ANIMADO (MÁQUINA DE ESCRIBIR) ========== -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Luis+Shagñay;💻+Full-Stack+Developer;🚀+Fundador+de+Zentauri+Studio;✨+Creando+el+futuro%2C+una+app+a+la+vez;🎯+Especialista+en+Flutter+%26+Dart" alt="Typing SVG" />
 
-<!-- Esto te presenta de forma dinámica. -->
-
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DPoppins%26size%3D22%26duration%3D3000%26pause%3D1000%26color%3D4F46E5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3D👋+Hola%2C+soy+Luis+Shagñay;💻+Full-Stack+Developer;🚀+Fundador+de+Zentauri;✨+Creando+el+futuro%2C+una+app+a+la+vez" alt="Typing SVG" /><br><br>
+<br><br>
 
 <!-- ========== SECCIÓN DE PERFIL ========== -->
-
 <div align="center">
-<h3>🎯 Fundador y Desarrollador Principal en Zentauri</h3>
-<p><em>Especialista en Desarrollo Móvil con Flutter | Apasionado por el Backend y el Diseño UI/UX</em></p>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80" alt="Developer GIF">
+  
+  <h3>🎯 Fundador y CEO de Zentauri Studio</h3>
+  <p><em>Especialista en Desarrollo Móvil con Flutter | Backend Expert | UI/UX Designer</em></p>
 </div>
 
 <!-- ========== ENLACES RÁPIDOS (BADGES) ========== -->
-
-<!-- Reemplaza los enlaces de LinkedIn y Portafolio con los tuyos. -->
-
 <p align="center">
-<a href="mailto:zentauri.studio@gmail.com"><img src="https://img.shields.io/badge/💌_Email-zentauri.studio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"></a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/TU-PERFIL-DE-LINKEDIN"><img src="https://img.shields.io/badge/💼_LinkedIn-Luis_Shagñay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"></a>
-<a href="https://www.google.com/search?q=https://TU-SITIO.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio_Web-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"></a>
+  <a href="mailto:zentauri.studio@gmail.com">
+    <img src="https://img.shields.io/badge/💌_Email-zentauri.studio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/luis-shagnay">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Luis_Shagñay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+  </a>
+  <a href="https://zentauri-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio_Web-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+  </a>
 </p>
 
 <!-- ========== CONTADOR DE VISITAS Y SEGUIDORES ========== -->
-
-<!-- Reemplaza 'TU-USUARIO-DE-GITHUB' con tu nombre de usuario de GitHub. -->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DTU-USUARIO-DE-GITHUB%26style%3Dfor-the-badge%26color%3D4f46e5%26labelColor%3D0d1117" alt="Profile Views">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/followers/TU-USUARIO-DE-GITHUB%3Flabel%3DFollowers%26style%3Dfor-the-badge%26color%3D4f46e5%26labelColor%3D0d1117" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Followers&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Followers">
 </p>
+
 <br>
 
 <!-- ========== SEPARADOR VISUAL ========== -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br>
-🚀 Sobre Zentauri
+
+## 🚀 **SOBRE ZENTAURI STUDIO**
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-<!-- ⭐⭐⭐ AQUÍ VA TU LOGO ⭐⭐⭐ -->
-<!-- Sube tu logo a un servicio como Imgur.com y pega el enlace directo aquí. -->
-<img src="https://www.google.com/search?q=https://i.imgur.com/vCq5e1L.png" width="250">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 </td>
 <td width="50%">
-<strong>🎯 Nuestra Misión</strong><br>
-Crear soluciones digitales que no solo sean funcionales y robustas, sino también elegantes y un placer de usar.
-<br><br>
-<strong>💡 Nuestra Visión</strong><br>
-Transformar ideas complejas en experiencias de usuario intuitivas y de alto rendimiento.
-<br><br>
-<strong>🏆 Fundado en 2024</strong><br>
+
+### 🎯 **Nuestra Misión**
+Crear **soluciones digitales** que no solo sean funcionales y robustas, sino también **elegantes** y un **placer de usar**.
+
+### 💡 **Nuestra Visión** 
+Transformar ideas complejas en **experiencias de usuario intuitivas** y de alto rendimiento.
+
+### 🏆 **Fundado en 2024**
 Con la pasión de construir el futuro del software, un proyecto a la vez.
+
+### 📊 **Nuestros Números**
+- ✅ **10+** Proyectos Completados
+- 🎯 **100%** Satisfacción del Cliente  
+- ⚡ **24/7** Soporte Técnico
+- 🚀 **2 años** de Experiencia
+
 </td>
 </tr>
 </table>
 </div>
+
 <br>
 
 <!-- ========== SEPARADOR VISUAL ========== -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br>
-💎 Proyectos Estrella
+
+## 💎 **PROYECTOS ESTRELLA**
 
 <div align="center">
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📱 SupaMalla</h3>
-<p align="center"><strong>🎓 Asistente Académico Inteligente</strong></p>
-<p>Una app móvil que ayuda a estudiantes a gestionar su malla curricular, tareas y horarios para alcanzar el éxito académico.</p>
-<strong>✨ Características Clave:</strong>
-<ul>
-<li>Gestión visual de la malla curricular</li>
-<li>Notificaciones inteligentes de tareas</li>
-<li>Cálculo de progreso y promedios</li>
-</ul>
+
+### 📱 **SupaMalla**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=120&section=header&text=📱&fontSize=60&fontColor=fff&animation=fadeIn"/>
+
+**🎓 Asistente Académico Inteligente**
+
+Una app móvil revolucionaria que ayuda a estudiantes a gestionar su malla curricular, tareas y horarios para alcanzar el éxito académico.
+
+**✨ Características Clave:**
+- 📚 Gestión visual de malla curricular
+- 🔔 Notificaciones inteligentes de tareas  
+- 📊 Cálculo automático de progreso y promedios
+- 🎯 Seguimiento de objetivos académicos
+- 📅 Planificador de horarios optimizado
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+</div>
+
 </td>
 <td width="50%">
-<h3 align="center">💼 Nieto App</h3>
-<p align="center"><strong>⚖️ Plataforma de Gestión Legal</strong></p>
-<p>Un portal seguro que conecta a abogados y clientes, permitiendo la gestión de casos, documentos y comunicación en tiempo real.</p>
-<strong>✨ Características Clave:</strong>
-<ul>
-<li>Dashboard por roles (Admin, Abogado, Cliente)</li>
-<li>Gestión de documentos en la nube</li>
-<li>Agenda y notificaciones en tiempo real</li>
-</ul>
+
+### 💼 **Nieto App**  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=120&section=header&text=⚖️&fontSize=60&fontColor=fff&animation=fadeIn"/>
+
+**⚖️ Plataforma de Gestión Legal**
+
+Un portal seguro y profesional que conecta abogados y clientes, permitiendo la gestión eficiente de casos, documentos y comunicación en tiempo real.
+
+**✨ Características Clave:**
+- 👥 Dashboard por roles (Admin, Abogado, Cliente)
+- 📄 Gestión inteligente de documentos en la nube
+- 📅 Agenda y citas automatizadas
+- 💬 Chat en tiempo real seguro
+- 📈 Reportes y analytics avanzados
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ========== SEPARADOR VISUAL ========== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 🛠️ **MI ARSENAL TECNOLÓGICO**
+
+<div align="center">
+
+### 📱 **Desarrollo Móvil**
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,apple" width="200" alt="Mobile Development"/>
+
+### 🗄️ **Backend & Base de Datos**  
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,nodejs" width="200" alt="Backend"/>
+
+### 🌐 **Desarrollo Web**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" width="300" alt="Web Development"/>
+
+### 🔧 **Herramientas y Plataformas**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" width="250" alt="Tools"/>
+
+<br>
+
+<!-- ICONOS ANIMADOS DE TECNOLOGÍAS -->
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="90">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90">
+
+</div>
+
+<br>
+
+<!-- ========== SEPARADOR VISUAL ========== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 📈 **MIS ESTADÍSTICAS EN GITHUB**
+
+<div align="center">
+
+<!-- GITHUB STATS CARDS -->
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ZentauriStudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15"/>
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentauriStudio&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15"/>
+
+<br><br>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZentauriStudio&theme=tokyo-night&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area_color=4f46e5&area=true&hide_border=false&custom_title=Actividad%20de%20Contribución" width="100%" alt="Contribution Graph"/>
+
+<br>
+
+<!-- STREAK STATS -->
+<img src="https://streak-stats.demolab.com/?user=ZentauriStudio&theme=tokyonight&background=0d1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=4f46e5" alt="GitHub Streak Stats"/>
+
+</div>
+
+<br>
+
+<!-- ========== SEPARADOR VISUAL ========== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+## 🤝 **CONECTA CONMIGO**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding GIF"/>
+
+<br>
+
+### 💫 **¿Tienes una idea revolucionaria?**
+### 🚀 **¡Hagámosla realidad juntos!**
+
+<br>
+
+<!-- BOTONES DE CONTACTO -->
+<a href="mailto:zentauri.studio@gmail.com">
+  <img src="https://img.shields.io/badge/💌%20Enviar%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+</a>
+<br>
+<a href="https://linkedin.com/in/luis-shagnay">
+  <img src="https://img.shields.io/badge/💼%20Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+</a>
+<br>
+<a href="https://zentauri-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Ver%20Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+</a>
+<br>
+<a href="https://wa.me/593987654321">
+  <img src="https://img.shields.io/badge/💬%20Chat%20por%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp">
+</a>
+
+<br><br>
+
+<!-- SOCIAL PROOF CON ANIMACIONES -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-17ba-4208-8d82-25a97c2ca7ea.gif" width="50"/>
+  <br><strong>15+</strong><br><sub>Proyectos Completados</sub>
+</td>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655817-5563c138-6c8b-4b23-9110-6d59c7ddecb0.gif" width="50"/>
+  <br><strong>100%</strong><br><sub>Satisfacción del Cliente</sub>
+</td>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655814-3a85f0f4-8868-46eb-9b9f-b10b21bdfd7e.gif" width="50"/>
+  <br><strong>24/7</strong><br><sub>Soporte Técnico</sub>
+</td>
+<td align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216655816-7d0b5fb5-5a1d-4d38-8d6b-20a1b3b94ae1.gif" width="50"/>
+  <br><strong>2024</strong><br><sub>Año de Fundación</sub>
 </td>
 </tr>
 </table>
 </div>
+
 <br>
 
-<!-- ========== SEPARADOR VISUAL ========== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-🛠️ Mi Arsenal Tecnológico
-
+<!-- LLAMADA A LA ACCIÓN -->
 <div align="center">
-<strong>📱 Desarrollo Móvil</strong><br>
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,apple" /><br><br>
-<strong>🗄️ Backend & Base de Datos</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dsupabase,postgresql,firebase" /><br><br>
-<strong>🌐 Desarrollo Web</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,vercel" /><br><br>
-<strong>🔧 Herramientas y Plataformas</strong><br>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,figma" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  <h2>🌟 ¿Listo para crear algo increíble? 🌟</h2>
+  <p><em>Desde apps móviles hasta plataformas web complejas, convertimos tus ideas en realidad digital.</em></p>
 </div>
-<br>
 
-<!-- ========== SEPARADOR VISUAL ========== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-📈 Mis Estadísticas en GitHub
-
-<!-- Reemplaza 'TU-USUARIO-DE-GITHUB' con tu nombre de usuario de GitHub en los 3 enlaces de abajo. -->
-
-<div align="center">
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTU-USUARIO-DE-GITHUB%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue%26bg_color%3D0d1117%26title_color%3D4f46e5%26icon_color%3D4f46e5%26text_color%3Dffffff%26border_color%3D4f46e5%26border_radius%3D15"/>
-<img height="180" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTU-USUARIO-DE-GITHUB%26layout%3Dcompact%26theme%3Dtokyonight%26bg_color%3D0d1117%26title_color%3D4f46e5%26text_color%3Dffffff%26border_color%3D4f46e5%26border_radius%3D15"/>
-<br><br>
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com/%3Fuser%3DTU-USUARIO-DE-GITHUB%26theme%3Dtokyonight%26background%3D0d1117%26ring%3D4f46e5%26fire%3D4f46e5%26currStreakLabel%3D4f46e5%26sideLabels%3Dffffff%26currStreakNum%3Dffffff%26dates%3Dffffff%26sideNums%3Dffffff%26border%3D4f46e5" alt="GitHub Streak Stats"/>
 </div>
-<br>
 
-<!-- ========== SEPARADOR VISUAL ========== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br>
-🤝 Hablemos
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding GIF"/>
-<br>
-<h3>💫 ¿Tienes una idea? ¡Hagámosla realidad juntos! 🚀</h3>
-<br>
-<!-- Reemplaza los enlaces con los tuyos (LinkedIn, Portafolio, WhatsApp). -->
-<a href="mailto:zentauri.studio@gmail.com"><img src="https://img.shields.io/badge/💌%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&height=40" alt="Email"></a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/TU-PERFIL-DE-LINKEDIN"><img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&height=40" alt="LinkedIn"></a>
-<a href="https://www.google.com/search?q=https://TU-SITIO.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117&height=40" alt="Portfolio"></a>
-<a href="https://www.google.com/search?q=https://wa.me/593XXXXXXXXX"><img src="https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117&height=40" alt="WhatsApp"></a>
-</div>
 <br>
 
 <!-- ========== PIE DE PÁGINA ANIMADO ========== -->
+<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,45,90&height=150&section=footer&text=¡Construyamos%20el%20futuro%20digital%20juntos!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
-<img width="100%" height="200" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D12,45,90%26height%3D150%26section%3Dfooter"/>
+<div align="center">
+  <sub>✨ Hecho con ❤️ y mucho ☕ por Luis Shagñay | Zentauri Studio © 2024 ✨</sub>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30">
+  <br>
+  <em>"La innovación distingue a los líderes de los seguidores." - Steve Jobs</em>
+</div>
 
 </div>
