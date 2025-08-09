@@ -1,15 +1,14 @@
 <div align="center">
 
-<!-- Header con animación premium y tonos de gris oscuro -->
+<!-- Header con animación premium en blanco y negro -->
 
-<img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,40&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
+<img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
 
 <!-- Efecto de máquina de escribir en blanco -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Desarrollador+Full-Stack+%26+Arquitecto+de+Software;Experto+en+Flutter+%7C+Especialista+Backend;Transformando+Ideas+en+Realidad+Digital;Construyendo+el+Futuro%2C+una+App+a+la+Vez" alt="Animación Profesional de Escritura" />
 
 </div>
-
 ---
 
 ## 👨‍💻 Acerca de Mí
