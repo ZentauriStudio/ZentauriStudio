@@ -72,7 +72,8 @@
 <table width="100%">
 <tr>
 <td width="35%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,30,50&height=200&section=header&text=SupaMalla&fontSize=40&fontColor=fff&animation=fadeIn"/>
+<!-- Logo de SupaMalla actualizado -->
+<img src="https://drive.google.com/uc?export=view&id=1aoxkqi1qAAoNv3ODHDpGNepyr_p3VO_v" width="200"/>
 </td>
 <td width="65%" valign="top">
 <h3>📱 SupaMalla - Plataforma de Inteligencia Académica</h3>
@@ -106,7 +107,8 @@
 <table width="100%">
 <tr>
 <td width="35%" align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,15,25&height=200&section=header&text=Nieto%20App&fontSize=40&fontColor=fff&animation=fadeIn"/>
+<!-- Logo de Nieto App actualizado -->
+<img src="https://drive.google.com/uc?export=view&id=1g7xokoZ6zJHf9YazYj61_qpPvGPHR34H" width="200"/>
 </td>
 <td width="65%" valign="top">
 <h3>⚖️ Nieto App - Plataforma de Gestión Legal</h3>
