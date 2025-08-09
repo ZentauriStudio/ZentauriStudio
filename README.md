@@ -196,7 +196,7 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 <table>
 <tr>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="80">
+  <img src="https://assets-v2.lottiefiles.com/a/3faf2a9a-1182-11ee-b5f2-874b573aa006/WSifjiGato.gif" width="80">
   <br><strong>Mobile First</strong><br>
   <sub>Apps nativas con Flutter</sub>
 </td>
