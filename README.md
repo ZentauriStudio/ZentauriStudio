@@ -50,7 +50,7 @@
       <p>Transformar ideas complejas en experiencias de usuario intuitivas y de alto rendimiento que impulsen el éxito empresarial.</p>
     </td>
     <td width="33%" align="left">
-      <h4>🚀 Fundado en 2024</h4 align="center">
+      <h4>🚀 Fundado en 2024</h4>
       <p>Construido sobre la pasión por crear el futuro del software, entregando excelencia proyecto tras proyecto.</p>
     </td>
   </tr>
