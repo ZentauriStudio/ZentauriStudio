@@ -108,7 +108,7 @@
 <tr>
 <td width="35%" align="center">
 <!-- Logo de Nieto App actualizado -->
-<img src="https://drive.google.com/uc?export=view&id=1g7xokoZ6zJHf9YazYj61_qpPvGPHR34H" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1g7xokoZ6zJHf9YazYj61_qpPvGPHR34H" width="150"/>
 </td>
 <td width="65%" valign="top">
 <h3>⚖️ Nieto App - Plataforma de Gestión Legal</h3>
