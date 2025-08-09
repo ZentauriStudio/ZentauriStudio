@@ -196,22 +196,22 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 <table>
 <tr>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="80">
   <br><strong>Mobile First</strong><br>
   <sub>Apps nativas con Flutter</sub>
 </td>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
   <br><strong>Full Stack</strong><br>
   <sub>Frontend + Backend</sub>
 </td>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
   <br><strong>UI/UX Design</strong><br>
   <sub>Experiencias intuitivas</sub>
 </td>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
   <br><strong>DevOps</strong><br>
   <sub>Deploy y CI/CD</sub>
 </td>
