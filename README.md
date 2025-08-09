@@ -22,7 +22,7 @@
         <h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
         <p><em>Fundador y Desarrollador Principal</em></p>
       </td>
-      <td style="border: none; padding-left: 40px; align ="left">
+      <td style="border: none; align ="left">
         <h3>🚀 Perfil Profesional</h3>
         <ul style="list-style: none; padding: 0;">
           <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
