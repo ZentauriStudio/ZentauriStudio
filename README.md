@@ -14,12 +14,12 @@
 
 ## 👨‍💻 Acerca de Mí
 
-<div align="center">
+<div align="left">
   <table border="0" cellpadding="20" cellspacing="0" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
         <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Shagñay - Perfil Profesional">
-        <h3 style="color: #4F46E5; margin-top: 15px;">Luis Sebastian</h3>
+        <h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
         <p><em>Fundador y Desarrollador Principal</em></p>
       </td>
       <td style="border: none; padding-left: 40px;">
