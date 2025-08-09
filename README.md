@@ -201,7 +201,7 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
   <sub>Apps nativas con Flutter</sub>
 </td>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
   <br><strong>Full Stack</strong><br>
   <sub>Frontend + Backend</sub>
 </td>
