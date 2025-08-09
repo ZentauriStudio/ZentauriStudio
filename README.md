@@ -1,10 +1,8 @@
-Luis Shagñay | Zentauri Studio
-
 <div align="center">
 
-<!-- Header con animación premium en blanco y negro -->
+<!-- Header con animación premium y tonos de gris oscuro -->
 
-<img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
+<img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,40&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
 
 <!-- Efecto de máquina de escribir en blanco -->
 
@@ -21,7 +19,7 @@ Luis Shagñay | Zentauri Studio
 <tr>
 <td width="30%" align="center" style="border: none; vertical-align: top;">
 <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Sebastian - Perfil Profesional">
-<h3 style="color: #4F46E5; margin-top: 15px;">Luis Sebastian</h3>
+<h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
 <p><em>Fundador y Desarrollador Principal</em></p>
 </td>
 <td width="70%" style="border: none; vertical-align: top;" align="left">
