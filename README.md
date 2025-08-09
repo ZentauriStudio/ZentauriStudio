@@ -187,14 +187,6 @@
 
 ---
 
-## 📈 Estadísticas del Perfil
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=4f46e5&labelColor=0d1117&label=Vistas+del+Perfil" alt="Vistas del Perfil">
-  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Seguidores&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/ZentauriStudio?label=Estrellas%20Totales&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Estrellas Totales">
-</div>
-
 ---
 
 ## 🤝 Conectemos y Colaboremos
