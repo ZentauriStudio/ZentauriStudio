@@ -22,9 +22,9 @@
         <h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
         <p><em>Fundador y Desarrollador Principal</em></p>
       </td>
-      <td style="border: none; align ="left">
+      <td style="border: none; align="left">
         <h3>🚀 Perfil Profesional</h3>
-        <ul style="list-style: none; padding: 0;">
+        <ul  align="left"; style="list-style: none; padding: 0;">
           <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
           <li>📱 <strong>Experto en Flutter</strong> con más de 2 años de experiencia</li>
           <li>🗄️ <strong>Arquitecto Backend</strong> especializado en soluciones escalables</li>
