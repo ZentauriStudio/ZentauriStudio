@@ -93,7 +93,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <br><br>
 <a href="https://github.com/ZentauriStudio/SupaMalla">
-<img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+<img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=vercel&logoColor=white%22" alt="Página">
 </a>
 
 </td>
@@ -128,7 +128,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <br><br>
 <a href="https://github.com/ZentauriStudio/NietoApp">
-<img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+<img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=vercel&logoColor=white%22" alt="Página">
 </a>
 
 </td>
