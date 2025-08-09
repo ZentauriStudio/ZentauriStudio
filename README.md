@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ========== ENCABEZADO ANIMADO ========== -->
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,45,90&height=200&section=header&text=ZENTAURI%20STUDIO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales%20Extraordinarias&descAlignY=55&descAlign=50&descSize=16"/>
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=200&section=header&text=ZENTAURI%20STUDIO&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales%20Extraordinarias&descAlignY=55&descAlign=50&descSize=16"/>
 
 <!-- ========== TEXTO ANIMADO (MÁQUINA DE ESCRIBIR) ========== -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Luis+Shagñay;💻+Full-Stack+Developer;🚀+Fundador+de+Zentauri+Studio;✨+Creando+el+futuro%2C+una+app+a+la+vez;🎯+Especialista+en+Flutter+%26+Dart" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hola%2C+soy+Luis+Shagñay;💻+Full-Stack+Developer;🚀+Fundador+de+Zentauri+Studio;✨+Creando+el+futuro%2C+una+app+a+la+vez;🎯+Especialista+en+Flutter+%26+Dart" alt="Typing SVG" />
 
 <br><br>
 
@@ -19,20 +19,20 @@
 <!-- ========== ENLACES RÁPIDOS (BADGES) ========== -->
 <p align="center">
   <a href="mailto:zentauri.studio@gmail.com">
-    <img src="https://img.shields.io/badge/💌_Email-zentauri.studio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
+    <img src="https://img.shields.io/badge/💌_Email-zentauri.studio%40gmail.com-FFFFFF?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Email">
   </a>
   <a href="https://linkedin.com/in/luis-shagnay">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Luis_Shagñay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Luis_Shagñay-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn">
   </a>
   <a href="https://zentauri-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio_Web-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Ver_Sitio_Web-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000" alt="Portfolio">
   </a>
 </p>
 
 <!-- ========== CONTADOR DE VISITAS Y SEGUIDORES ========== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Followers&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=ffffff&labelColor=000000" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Followers&style=for-the-badge&color=ffffff&labelColor=000000" alt="Followers">
 </p>
 
 <br>
@@ -152,26 +152,71 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 
 <div align="center">
 
-### 📱 **Desarrollo Móvil**
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,apple" width="200" alt="Mobile Development"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-### 🗄️ **Backend & Base de Datos**  
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,nodejs" width="200" alt="Backend"/>
+### ⚡ **Desarrollo Móvil**
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" alt="Dart"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=000000" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=000000" alt="Android"/>
+</p>
+
+### 🗄️ **Backend & Base de Datos**
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=000000" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=000000" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" alt="Node.js"/>
+</p>
 
 ### 🌐 **Desarrollo Web**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" width="300" alt="Web Development"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=000000" alt="Vue.js"/>
+</p>
 
-### 🔧 **Herramientas y Plataformas**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" width="250" alt="Tools"/>
+### 🔧 **Herramientas & Plataformas**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000" alt="Notion"/>
+</p>
 
 <br>
 
-<!-- ICONOS ANIMADOS DE TECNOLOGÍAS -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="90">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="90">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90">
+<!-- SECCIÓN VISUAL DE ESPECIALIDADES -->
+<table>
+<tr>
+<td width="25%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="80">
+  <br><strong>Mobile First</strong><br>
+  <sub>Apps nativas con Flutter</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+  <br><strong>Full Stack</strong><br>
+  <sub>Frontend + Backend</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+  <br><strong>UI/UX Design</strong><br>
+  <sub>Experiencias intuitivas</sub>
+</td>
+<td width="25%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
+  <br><strong>DevOps</strong><br>
+  <sub>Deploy y CI/CD</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -281,7 +326,7 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 <br>
 
 <!-- ========== PIE DE PÁGINA ANIMADO ========== -->
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,45,90&height=150&section=footer&text=¡Construyamos%20el%20futuro%20digital%20juntos!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=footer&text=¡Construyamos%20el%20futuro%20digital%20juntos!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
 <div align="center">
   <sub>✨ Hecho con ❤️ y mucho ☕ por Luis Shagñay | Zentauri Studio © 2024 ✨</sub>
