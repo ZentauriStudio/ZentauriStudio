@@ -65,63 +65,65 @@
 
 ---
 
-## 💼 Proyectos Destacados
+💼 Proyectos Destacados
 
 <div align="center">
+📱 SupaMalla - Plataforma de Inteligencia Académica
 
-### 📱 SupaMalla - Plataforma de Inteligencia Académica
-*Revolucionando el Éxito Estudiantil a través de la Gestión Académica Inteligente*
+Revolucionando el Éxito Estudiantil a través de la Gestión Académica Inteligente
 
 <table width="100%">
-  <tr>
-    <td width="70%">
-      <h4>🎓 Asistente Académico Inteligente</h4>
-      <p>Una aplicación móvil integral diseñada para empoderar a los estudiantes en la gestión de su trayectoria académica con precisión e inteligencia.</p>
-      
-      <h4>🔥 Características Principales</h4>
-      <ul>
-        <li><strong>Gestión Visual del Currículo:</strong> Visualización interactiva de la malla curricular</li>
-        <li><strong>Notificaciones Inteligentes:</strong> Gestión de fechas límite y prioridades con IA</li>
-        <li><strong>Análisis Académico:</strong> Seguimiento de progreso en tiempo real y cálculo de promedio</li>
-        <li><strong>Optimización de Horarios:</strong> Gestión inteligente de horarios académicos</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-    </td>
-  </tr>
+<tr>
+<td width="70%">
+<h4>🎓 Asistente Académico Inteligente</h4>
+<p>Una aplicación móvil integral diseñada para empoderar a los estudiantes en la gestión de su trayectoria académica con precisión e inteligencia.</p>
+
+  <h4>🔥 Características Principales</h4>
+  <ul>
+    <li><strong>Gestión Visual del Currículo:</strong> Visualización interactiva de la malla curricular</li>
+    <li><strong>Notificaciones Inteligentes:</strong> Gestión de fechas límite y prioridades con IA</li>
+    <li><strong>Análisis Académico:</strong> Seguimiento de progreso en tiempo real y cálculo de promedio</li>
+    <li><strong>Optimización de Horarios:</strong> Gestión inteligente de horarios académicos</li>
+  </ul>
+</td>
+<td width="30%" align="center">
+  <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter">
+  <img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)" alt="Supabase">
+  <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgreSQL">
+</td>
+
+</tr>
 </table>
+⚖️ Nieto App - Plataforma de Gestión Legal
 
----
-
-### ⚖️ Nieto App - Plataforma de Gestión Legal
-*Puente Digital Seguro entre Profesionales Legales y Clientes*
+Puente Digital Seguro entre Profesionales Legales y Clientes
 
 <table width="100%">
-  <tr>
-    <td width="70%">
-      <h4>💼 Portal Legal Profesional</h4>
-      <p>Una plataforma segura y completa que optimiza la gestión de práctica legal, conectando abogados y clientes a través de soluciones digitales avanzadas.</p>
-      
-      <h4>🔥 Características Principales</h4>
-      <ul>
-        <li><strong>Dashboards por Roles:</strong> Interfaces personalizadas para Admin, Abogado y Cliente</li>
-        <li><strong>Gestión de Documentos en la Nube:</strong> Almacenamiento y compartición segura y encriptada</li>
-        <li><strong>Comunicación en Tiempo Real:</strong> Sistema integrado de mensajería y notificaciones</li>
-        <li><strong>Gestión de Casos:</strong> Seguimiento completo del ciclo de vida de casos y análisis</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-    </td>
-  </tr>
+<tr>
+<td width="70%">
+<h4>💼 Portal Legal Profesional</h4>
+<p>Una plataforma segura y completa que optimiza la gestión de práctica legal, conectando abogados y clientes a través de soluciones digitales avanzadas.</p>
+
+  <h4>🔥 Características Principales</h4>
+  <ul>
+    <li><strong>Dashboards por Roles:</strong> Interfaces personalizadas para Admin, Abogado y Cliente</li>
+    <li><strong>Gestión de Documentos en la Nube:</strong> Almacenamiento y compartición segura y encriptada</li>
+    <li><strong>Comunicación en Tiempo Real:</strong> Sistema integrado de mensajería y notificaciones</li>
+    <li><strong>Gestión de Casos:</strong> Seguimiento completo del ciclo de vida de casos y análisis</li>
+  </ul>
+</td>
+<td width="30%" align="center">
+  <img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)" alt="Next.js">
+  <img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript">
+  <img src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="Tailwind">
+</td>
+
+</tr>
 </table>
 
 </div>
+
+<br>
 
 ---
 
