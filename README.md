@@ -222,38 +222,11 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 
 <br>
 
-<!-- ========== SEPARADOR VISUAL ========== 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
-## 📈 **MIS ESTADÍSTICAS EN GITHUB**
-
-<div align="center">
-
-<!-- GITHUB STATS CARDS -->
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=ZentauriStudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15"/>
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentauriStudio&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15"/>
-
-<br><br>
-
-<!-- CONTRIBUTION GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZentauriStudio&theme=tokyo-night&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area_color=4f46e5&area=true&hide_border=false&custom_title=Actividad%20de%20Contribución" width="100%" alt="Contribution Graph"/>
-
-<br>
-
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=ZentauriStudio&theme=tokyonight&background=0d1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=4f46e5" alt="GitHub Streak Stats"/>
-
-</div>
-
-<br>
 
 <!-- ========== SEPARADOR VISUAL ========== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<br>-->
+<br>
 
 ## 🤝 **CONECTA CONMIGO**
 
