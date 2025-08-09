@@ -210,7 +210,8 @@
 
 <div align="center">
   <!-- Footer profesional -->
-  <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,40&height=180&section=footer&text=¡Gracias%20por%20visitarnos!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+  <img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=240&section=header&text=¡Gracias%20por%20visitarnos!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+  
   
   <p style="margin-top: -40px; color: #888; font-size: 14px;">
     <em>"La innovación distingue entre un líder y un seguidor." - Steve Jobs</em>
