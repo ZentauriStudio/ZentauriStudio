@@ -41,7 +41,7 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="justify">
       <h4>🎯 Nuestra Misión</h4>
       <p>Crear soluciones digitales que no solo sean funcionales y robustas, sino también elegantes y placenteras de usar.</p>
     </td>
