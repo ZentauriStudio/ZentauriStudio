@@ -196,12 +196,12 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 <table>
 <tr>
 <td width="25%" align="center">
-  <img src="https://assets-v2.lottiefiles.com/a/3faf2a9a-1182-11ee-b5f2-874b573aa006/WSifjiGato.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad934.gif" width="80">
   <br><strong>Mobile First</strong><br>
   <sub>Apps nativas con Flutter</sub>
 </td>
 <td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
   <br><strong>Full Stack</strong><br>
   <sub>Frontend + Backend</sub>
 </td>
