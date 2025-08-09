@@ -41,16 +41,16 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="justify">
+    <td width="33%" align="left">
       <h4>🎯 Nuestra Misión</h4>
       <p>Crear soluciones digitales que no solo sean funcionales y robustas, sino también elegantes y placenteras de usar.</p>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="left">
       <h4>💡 Nuestra Visión</h4>
       <p>Transformar ideas complejas en experiencias de usuario intuitivas y de alto rendimiento que impulsen el éxito empresarial.</p>
     </td>
-    <td width="33%" align="center">
-      <h4>🚀 Fundado en 2024</h4>
+    <td width="33%" align="left">
+      <h4>🚀 Fundado en 2024</h4 align="center">
       <p>Construido sobre la pasión por crear el futuro del software, entregando excelencia proyecto tras proyecto.</p>
     </td>
   </tr>
