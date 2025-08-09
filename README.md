@@ -202,20 +202,10 @@
     <a href="mailto:zentauri.studio@gmail.com">
       <img src="https://img.shields.io/badge/📧%20Consultoría%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="margin: 5px;">
     </a>
-    <a href="https://linkedin.com/in/luis-shagnay">
-      <img src="https://img.shields.io/badge/💼%20Red%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" style="margin: 5px;">
-    </a>
-  </div>
-  
-  <div style="margin: 20px 0;">
     <a href="https://zentauri-portfolio.vercel.app">
       <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" style="margin: 5px;">
-    </a>
-    <a href="https://wa.me/593987654321">
-      <img src="https://img.shields.io/badge/💬%20WhatsApp%20Directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" style="margin: 5px;">
-    </a>
-  </div>
-  
+   
+    
   <div style="margin: 30px 0;">
     <h4>🎯 Servicios Disponibles:</h4>
     <img src="https://img.shields.io/badge/Desarrollo%20de%20Apps%20Móviles-Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter">
