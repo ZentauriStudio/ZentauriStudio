@@ -3,33 +3,33 @@
 <div align="center">
   
   <!-- Header con animación premium -->
-  <img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,40&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Engineering%20Digital%20Excellence&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
+  <img width="100%" height="240" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,40&height=240&section=header&text=ZENTAURI%20STUDIO&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Transformando%20Ideas%20en%20Experiencias%20Digitales&descAlignY=58&descAlign=50&descSize=20&fontAlign=50"/>
   
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&height=60&lines=Full-Stack+Developer+%26+Software+Architect;Flutter+Expert+%7C+Backend+Specialist;Transforming+Ideas+into+Digital+Reality;Building+the+Future%2C+One+App+at+a+Time" alt="Professional Typing Animation" />
+  <!-- Efecto de máquina de escribir -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&height=60&lines=Desarrollador+Full-Stack+%26+Arquitecto+de+Software;Experto+en+Flutter+%7C+Especialista+Backend;Transformando+Ideas+en+Realidad+Digital;Construyendo+el+Futuro%2C+una+App+a+la+Vez" alt="Animación Profesional de Escritura" />
   
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Acerca de Mí
 
 <div align="center">
   <table border="0" cellpadding="20" cellspacing="0" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Sebastian - Professional Profile">
+        <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Sebastian - Perfil Profesional">
         <h3 style="color: #4F46E5; margin-top: 15px;">Luis Sebastian</h3>
-        <p><em>Founder & Lead Developer</em></p>
+        <p><em>Fundador y Desarrollador Principal</em></p>
       </td>
       <td style="border: none; padding-left: 40px;">
-        <h3>🚀 Professional Profile</h3>
+        <h3>🚀 Perfil Profesional</h3>
         <ul style="list-style: none; padding: 0;">
-          <li>🎯 <strong>Founder & CEO</strong> of Zentauri Studio</li>
-          <li>📱 <strong>Flutter Expert</strong> with 3+ years experience</li>
-          <li>🗄️ <strong>Backend Architect</strong> specializing in scalable solutions</li>
-          <li>🎨 <strong>UI/UX Designer</strong> with focus on user-centered design</li>
-          <li>⚡ <strong>Full-Stack Developer</strong> passionate about innovation</li>
+          <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
+          <li>📱 <strong>Experto en Flutter</strong> con más de 3 años de experiencia</li>
+          <li>🗄️ <strong>Arquitecto Backend</strong> especializado en soluciones escalables</li>
+          <li>🎨 <strong>Diseñador UI/UX</strong> enfocado en experiencias centradas en el usuario</li>
+          <li>⚡ <strong>Desarrollador Full-Stack</strong> apasionado por la innovación</li>
         </ul>
       </td>
     </tr>
@@ -41,49 +41,49 @@
 ## 🏢 Zentauri Studio
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1in750jxEyrESkbQnbd51T4zNsI9PN1qI" width="400" alt="Zentauri Studio - Professional Logo">
+  <img src="https://drive.google.com/uc?export=view&id=1in750jxEyrESkbQnbd51T4zNsI9PN1qI" width="400" alt="Zentauri Studio - Logo Profesional">
   
-  <h3 style="color: #4F46E5; margin-top: 20px;">Transforming Ideas into Digital Experiences</h3>
+  <h3 style="color: #4F46E5; margin-top: 20px;">Transformando Ideas en Experiencias Digitales</h3>
 </div>
 
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h4>🎯 Our Mission</h4>
-      <p>Creating digital solutions that are not only functional and robust, but also elegant and delightful to use.</p>
+      <h4>🎯 Nuestra Misión</h4>
+      <p>Crear soluciones digitales que no solo sean funcionales y robustas, sino también elegantes y placenteras de usar.</p>
     </td>
     <td width="33%" align="center">
-      <h4>💡 Our Vision</h4>
-      <p>Transforming complex ideas into intuitive, high-performance user experiences that drive business success.</p>
+      <h4>💡 Nuestra Visión</h4>
+      <p>Transformar ideas complejas en experiencias de usuario intuitivas y de alto rendimiento que impulsen el éxito empresarial.</p>
     </td>
     <td width="33%" align="center">
-      <h4>🚀 Founded 2024</h4>
-      <p>Built on the passion for crafting the future of software, delivering excellence one project at a time.</p>
+      <h4>🚀 Fundado en 2024</h4>
+      <p>Construido sobre la pasión por crear el futuro del software, entregando excelencia proyecto tras proyecto.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Featured Projects
+## 💼 Proyectos Destacados
 
 <div align="center">
 
-### 📱 SupaMalla - Academic Intelligence Platform
-*Revolutionizing Student Success through Smart Academic Management*
+### 📱 SupaMalla - Plataforma de Inteligencia Académica
+*Revolucionando el Éxito Estudiantil a través de la Gestión Académica Inteligente*
 
 <table width="100%">
   <tr>
     <td width="70%">
-      <h4>🎓 Intelligent Academic Assistant</h4>
-      <p>A comprehensive mobile application designed to empower students in managing their academic journey with precision and intelligence.</p>
+      <h4>🎓 Asistente Académico Inteligente</h4>
+      <p>Una aplicación móvil integral diseñada para empoderar a los estudiantes en la gestión de su trayectoria académica con precisión e inteligencia.</p>
       
-      <h4>🔥 Core Features</h4>
+      <h4>🔥 Características Principales</h4>
       <ul>
-        <li><strong>Visual Curriculum Management:</strong> Interactive curriculum grid visualization</li>
-        <li><strong>Smart Task Notifications:</strong> AI-powered deadline and priority management</li>
-        <li><strong>Academic Analytics:</strong> Real-time progress tracking and GPA calculation</li>
-        <li><strong>Schedule Optimization:</strong> Intelligent timetable management</li>
+        <li><strong>Gestión Visual del Currículo:</strong> Visualización interactiva de la malla curricular</li>
+        <li><strong>Notificaciones Inteligentes:</strong> Gestión de fechas límite y prioridades con IA</li>
+        <li><strong>Análisis Académico:</strong> Seguimiento de progreso en tiempo real y cálculo de promedio</li>
+        <li><strong>Optimización de Horarios:</strong> Gestión inteligente de horarios académicos</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -96,21 +96,21 @@
 
 ---
 
-### ⚖️ Nieto App - Legal Management Platform
-*Secure Digital Bridge Between Legal Professionals and Clients*
+### ⚖️ Nieto App - Plataforma de Gestión Legal
+*Puente Digital Seguro entre Profesionales Legales y Clientes*
 
 <table width="100%">
   <tr>
     <td width="70%">
-      <h4>💼 Professional Legal Portal</h4>
-      <p>A secure, comprehensive platform that streamlines legal practice management, connecting attorneys and clients through advanced digital solutions.</p>
+      <h4>💼 Portal Legal Profesional</h4>
+      <p>Una plataforma segura y completa que optimiza la gestión de práctica legal, conectando abogados y clientes a través de soluciones digitales avanzadas.</p>
       
-      <h4>🔥 Core Features</h4>
+      <h4>🔥 Características Principales</h4>
       <ul>
-        <li><strong>Role-Based Dashboards:</strong> Customized interfaces for Admin, Attorney, and Client roles</li>
-        <li><strong>Cloud Document Management:</strong> Secure, encrypted document storage and sharing</li>
-        <li><strong>Real-Time Communication:</strong> Integrated messaging and notification system</li>
-        <li><strong>Case Management:</strong> Complete case lifecycle tracking and analytics</li>
+        <li><strong>Dashboards por Roles:</strong> Interfaces personalizadas para Admin, Abogado y Cliente</li>
+        <li><strong>Gestión de Documentos en la Nube:</strong> Almacenamiento y compartición segura y encriptada</li>
+        <li><strong>Comunicación en Tiempo Real:</strong> Sistema integrado de mensajería y notificaciones</li>
+        <li><strong>Gestión de Casos:</strong> Seguimiento completo del ciclo de vida de casos y análisis</li>
       </ul>
     </td>
     <td width="30%" align="center">
@@ -125,66 +125,66 @@
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Stack Tecnológico
 
 <div align="center">
 
-### 📱 Mobile Development
+### 📱 Desarrollo Móvil
 <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,kotlin,swift" />
 
-### 🗄️ Backend & Database
+### 🗄️ Backend y Base de Datos
 <img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,nodejs,express,mongodb" />
 
-### 🌐 Frontend Development
+### 🌐 Desarrollo Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,html,css,js,ts,tailwind,sass" />
 
-### 🔧 Tools & Platforms
+### 🔧 Herramientas y Plataformas
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel,netlify,postman" />
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud y DevOps
 <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,heroku,nginx,linux" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Análisis de GitHub
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ZentauriStudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=GitHub%20Statistics"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentauriStudio&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=Most%20Used%20Languages"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ZentauriStudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=Estadísticas%20de%20GitHub"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentauriStudio&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=Lenguajes%20Más%20Utilizados"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZentauriStudio&theme=tokyonight&background=0d1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=4f46e5&border_radius=15" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZentauriStudio&theme=tokyonight&background=0d1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=4f46e5&border_radius=15" alt="Estadísticas de Racha de GitHub"/>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZentauriStudio&theme=tokyo-night&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=false&border_radius=15" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZentauriStudio&theme=tokyo-night&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=false&border_radius=15" alt="Gráfico de Contribuciones"/>
 </div>
 
 ---
 
-## 🏆 Professional Achievements
+## 🏆 Logros Profesionales
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Projects%20Delivered-15+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Projects">
-        <h4>Successful Projects</h4>
+        <img src="https://img.shields.io/badge/Proyectos%20Entregados-15+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Proyectos">
+        <h4>Proyectos Exitosos</h4>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Client%20Satisfaction-100%25-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Satisfaction">
-        <h4>Client Satisfaction</h4>
+        <img src="https://img.shields.io/badge/Satisfacción%20del%20Cliente-100%25-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Satisfacción">
+        <h4>Satisfacción del Cliente</h4>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Code%20Quality-A+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Quality">
-        <h4>Code Quality Rating</h4>
+        <img src="https://img.shields.io/badge/Calidad%20del%20Código-A+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Calidad">
+        <h4>Calificación de Calidad</h4>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Response%20Time-2h-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Response">
-        <h4>Avg. Response Time</h4>
+        <img src="https://img.shields.io/badge/Tiempo%20de%20Respuesta-2h-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Respuesta">
+        <h4>Tiempo Promedio de Respuesta</h4>
       </td>
     </tr>
   </table>
@@ -192,50 +192,50 @@
 
 ---
 
-## 📈 Profile Insights
+## 📈 Estadísticas del Perfil
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=4f46e5&labelColor=0d1117&label=Profile+Views" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Followers&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Followers">
-  <img src="https://img.shields.io/github/stars/ZentauriStudio?label=Total%20Stars&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=ZentauriStudio&style=for-the-badge&color=4f46e5&labelColor=0d1117&label=Vistas+del+Perfil" alt="Vistas del Perfil">
+  <img src="https://img.shields.io/github/followers/ZentauriStudio?label=Seguidores&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/ZentauriStudio?label=Estrellas%20Totales&style=for-the-badge&color=4f46e5&labelColor=0d1117" alt="Estrellas Totales">
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Conectemos y Colaboremos
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300" alt="Professional Collaboration"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="300" alt="Colaboración Profesional"/>
   
-  <h3 style="color: #4F46E5; margin: 30px 0;">Ready to Transform Your Vision into Reality? 🚀</h3>
+  <h3 style="color: #4F46E5; margin: 30px 0;">¿Listo para Transformar tu Visión en Realidad? 🚀</h3>
   
-  <p style="font-size: 18px; margin-bottom: 30px;"><em>Whether you need a mobile app, web platform, or complete digital solution, let's discuss how we can bring your ideas to life.</em></p>
+  <p style="font-size: 18px; margin-bottom: 30px;"><em>Ya sea que necesites una app móvil, plataforma web o una solución digital completa, conversemos sobre cómo podemos dar vida a tus ideas.</em></p>
   
   <div style="margin: 20px 0;">
     <a href="mailto:zentauri.studio@gmail.com">
-      <img src="https://img.shields.io/badge/📧%20Email%20Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/📧%20Consultoría%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="margin: 5px;">
     </a>
     <a href="https://linkedin.com/in/luis-shagnay">
-      <img src="https://img.shields.io/badge/💼%20LinkedIn%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/💼%20Red%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" style="margin: 5px;">
     </a>
   </div>
   
   <div style="margin: 20px 0;">
     <a href="https://zentauri-portfolio.vercel.app">
-      <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" style="margin: 5px;">
     </a>
     <a href="https://wa.me/593987654321">
-      <img src="https://img.shields.io/badge/💬%20WhatsApp%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" style="margin: 5px;">
+      <img src="https://img.shields.io/badge/💬%20WhatsApp%20Directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" style="margin: 5px;">
     </a>
   </div>
   
   <div style="margin: 30px 0;">
-    <h4>🎯 Services Available:</h4>
-    <img src="https://img.shields.io/badge/Mobile%20App%20Development-Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter">
-    <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-61DAFB?style=flat-square&logo=react" alt="Web Dev">
-    <img src="https://img.shields.io/badge/UI%2FUX%20Design-Figma-F24E1E?style=flat-square&logo=figma" alt="Design">
-    <img src="https://img.shields.io/badge/Backend%20Development-Node.js-339933?style=flat-square&logo=nodedotjs" alt="Backend">
-    <img src="https://img.shields.io/badge/Database%20Design-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="Database">
+    <h4>🎯 Servicios Disponibles:</h4>
+    <img src="https://img.shields.io/badge/Desarrollo%20de%20Apps%20Móviles-Flutter-02569B?style=flat-square&logo=flutter" alt="Flutter">
+    <img src="https://img.shields.io/badge/Desarrollo%20Web-Full%20Stack-61DAFB?style=flat-square&logo=react" alt="Desarrollo Web">
+    <img src="https://img.shields.io/badge/Diseño%20UI%2FUX-Figma-F24E1E?style=flat-square&logo=figma" alt="Diseño">
+    <img src="https://img.shields.io/badge/Desarrollo%20Backend-Node.js-339933?style=flat-square&logo=nodedotjs" alt="Backend">
+    <img src="https://img.shields.io/badge/Diseño%20de%20Base%20de%20Datos-PostgreSQL-316192?style=flat-square&logo=postgresql" alt="Base de Datos">
   </div>
   
 </div>
@@ -243,10 +243,10 @@
 ---
 
 <div align="center">
-  <!-- Professional Footer -->
-  <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,40&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
+  <!-- Footer profesional -->
+  <img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,40&height=180&section=footer&text=¡Gracias%20por%20visitarnos!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
   
   <p style="margin-top: -40px; color: #888; font-size: 14px;">
-    <em>"Innovation distinguishes between a leader and a follower." - Steve Jobs</em>
+    <em>"La innovación distingue entre un líder y un seguidor." - Steve Jobs</em>
   </p>
 </div>
