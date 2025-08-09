@@ -14,27 +14,29 @@
 
 ## 👨‍💻 Acerca de Mí
 
-<div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" style="border: none;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Shagñay - Perfil Profesional">
-        <h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
-        <p><em>Fundador y Desarrollador Principal</em></p>
-      </td>
-      <td style="border: none; align="left">
-        <h3>🚀 Perfil Profesional</h3>
-        <ul  align="left"; style="list-style: none; padding: 0;">
-          <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
-          <li>📱 <strong>Experto en Flutter</strong> con más de 2 años de experiencia</li>
-          <li>🗄️ <strong>Arquitecto Backend</strong> especializado en soluciones escalables</li>
-          <li>🎨 <strong>Diseñador UI/UX</strong> enfocado en experiencias centradas en el usuario</li>
-          <li>⚡ <strong>Desarrollador Full-Stack</strong> apasionado por la innovación</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+## 👨‍💻 Acerca de Mí
+
+<!-- He eliminado el <div align="center"> que envolvía la tabla para que el contenido fluya de forma natural -->
+<table border="0" cellpadding="20" cellspacing="0" style="border: none; width: 100%;">
+  <tr>
+    <td width="30%" align="center" style="border: none; vertical-align: top;">
+      <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Shagñay - Perfil Profesional">
+      <h3 style="color: #4F46E5; margin-top: 15px;">Luis Shagñay</h3>
+      <p><em>Fundador y Desarrollador Principal</em></p>
+    </td>
+    <td width="70%" style="border: none; vertical-align: top;">
+      <h3>🚀 Perfil Profesional</h3>
+      <!-- La lista ahora se alineará a la izquierda de forma natural dentro de su celda -->
+      <ul style="list-style: none; padding: 0;">
+        <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
+        <li>📱 <strong>Experto en Flutter</strong> con más de 2 años de experiencia</li>
+        <li>🗄️ <strong>Arquitecto Backend</strong> especializado en soluciones escalables</li>
+        <li>🎨 <strong>Diseñador UI/UX</strong> enfocado en experiencias centradas en el usuario</li>
+        <li>⚡ <strong>Desarrollador Full-Stack</strong> apasionado por la innovación</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
