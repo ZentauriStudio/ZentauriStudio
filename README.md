@@ -192,7 +192,7 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 
 <br>
 
-<!-- SECCIÓN VISUAL DE ESPECIALIDADES -->
+<!-- SECCIÓN VISUAL DE ESPECIALIDADES 
 <table>
 <tr>
 <td width="25%" align="center">
@@ -220,7 +220,7 @@ Un portal seguro y profesional que conecta abogados y clientes, permitiendo la g
 
 </div>
 
-<br>
+<br>-->
 
 <!-- ========== SEPARADOR VISUAL ========== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
