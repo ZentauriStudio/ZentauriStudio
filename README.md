@@ -9,7 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Desarrollador+Full-Stack+%26+Arquitecto+de+Software;Experto+en+Flutter+%7C+Especialista+Backend;Transformando+Ideas+en+Realidad+Digital;Construyendo+el+Futuro%2C+una+App+a+la+Vez" alt="Animación Profesional de Escritura" />
 
 </div>
----
 
 ## 👨‍💻 Acerca de Mí
 
