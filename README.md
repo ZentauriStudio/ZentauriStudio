@@ -49,10 +49,6 @@
       <h4 style="text-align: center;">💡 Nuestra Visión</h4>
       <p style="text-align: left;">Transformar ideas complejas en experiencias de usuario intuitivas y de alto rendimiento que impulsen el éxito empresarial.</p>
     </td>
-    <td width="33%" align="left">
-      <h4 style="text-align: center;">🚀 Fundado en 2024</h4>
-      <p style="text-align: left;">Construido sobre la pasión por crear el futuro del software, entregando excelencia proyecto tras proyecto.</p>
-    </td>
   </tr>
 </table>
 
