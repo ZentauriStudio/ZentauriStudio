@@ -65,65 +65,73 @@
 
 ---
 
-## 💼 Proyectos Destacados
+## 💎 Proyectos Destacados
 
-<div align="center">
-📱 SupaMalla - Plataforma de Inteligencia Académica
-
-Revolucionando el Éxito Estudiantil a través de la Gestión Académica Inteligente
+<!-- PROYECTO 1: SUPAMALLA -->
 
 <table width="100%">
 <tr>
-<td width="70%">
-<h4>🎓 Asistente Académico Inteligente</h4>
+<td width="35%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,30,50&height=200&section=header&text=SupaMalla&fontSize=40&fontColor=fff&animation=fadeIn"/>
+</td>
+<td width="65%" valign="top">
+<h3>📱 SupaMalla - Plataforma de Inteligencia Académica</h3>
+<i>Revolucionando el Éxito Estudiantil a través de la Gestión Académica Inteligente</i>
 <p>Una aplicación móvil integral diseñada para empoderar a los estudiantes en la gestión de su trayectoria académica con precisión e inteligencia.</p>
 
-  <h4>🔥 Características Principales</h4>
-  <ul>
-    <li><strong>Gestión Visual del Currículo:</strong> Visualización interactiva de la malla curricular</li>
-    <li><strong>Notificaciones Inteligentes:</strong> Gestión de fechas límite y prioridades con IA</li>
-    <li><strong>Análisis Académico:</strong> Seguimiento de progreso en tiempo real y cálculo de promedio</li>
-    <li><strong>Optimización de Horarios:</strong> Gestión inteligente de horarios académicos</li>
-  </ul>
-</td>
-<td width="30%" align="center">
-  <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter">
-  <img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)" alt="Supabase">
-  <img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgreSQL">
-</td>
+<h4>🔥 Características Principales</h4>
+<ul>
+<li><b>Gestión Visual del Currículo:</b> Visualización interactiva de la malla curricular.</li>
+<li><b>Notificaciones Inteligentes:</b> Gestión de fechas límite y prioridades.</li>
+<li><b>Análisis Académico:</b> Seguimiento de progreso en tiempo real y cálculo de promedios.</li>
+</ul>
 
+<strong>Stack Tecnológico:</strong><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<br><br>
+<a href="https://github.com/ZentauriStudio/SupaMalla">
+<img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+</a>
+
+</td>
 </tr>
 </table>
-⚖️ Nieto App - Plataforma de Gestión Legal
 
-Puente Digital Seguro entre Profesionales Legales y Clientes
+<br>
+
+<!-- PROYECTO 2: NIETO APP -->
 
 <table width="100%">
 <tr>
-<td width="70%">
-<h4>💼 Portal Legal Profesional</h4>
-<p>Una plataforma segura y completa que optimiza la gestión de práctica legal, conectando abogados y clientes a través de soluciones digitales avanzadas.</p>
-
-  <h4>🔥 Características Principales</h4>
-  <ul>
-    <li><strong>Dashboards por Roles:</strong> Interfaces personalizadas para Admin, Abogado y Cliente</li>
-    <li><strong>Gestión de Documentos en la Nube:</strong> Almacenamiento y compartición segura y encriptada</li>
-    <li><strong>Comunicación en Tiempo Real:</strong> Sistema integrado de mensajería y notificaciones</li>
-    <li><strong>Gestión de Casos:</strong> Seguimiento completo del ciclo de vida de casos y análisis</li>
-  </ul>
+<td width="35%" align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=5,15,25&height=200&section=header&text=Nieto%20App&fontSize=40&fontColor=fff&animation=fadeIn"/>
 </td>
-<td width="30%" align="center">
-  <img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)" alt="Next.js">
-  <img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript">
-  <img src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)" alt="Tailwind">
-</td>
+<td width="65%" valign="top">
+<h3>⚖️ Nieto App - Plataforma de Gestión Legal</h3>
+<i>Puente Digital Seguro entre Profesionales Legales y Clientes</i>
+<p>Una plataforma segura y completa que optimiza la gestión de la práctica legal, conectando abogados y clientes a través de soluciones digitales avanzadas.</p>
 
+<h4>🔥 Características Principales</h4>
+<ul>
+<li><b>Dashboards por Roles:</b> Interfaces personalizadas para Admin, Abogado y Cliente.</li>
+<li><b>Gestión de Documentos en la Nube:</b> Almacenamiento y compartición segura.</li>
+<li><b>Comunicación en Tiempo Real:</b> Sistema integrado de mensajería y notificaciones.</li>
+</ul>
+
+<strong>Stack Tecnológico:</strong><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<br><br>
+<a href="https://github.com/ZentauriStudio/NietoApp">
+<img src="https://img.shields.io/badge/Ver_Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+</a>
+
+</td>
 </tr>
 </table>
-
-</div>
-
-<br>
 
 ---
 
