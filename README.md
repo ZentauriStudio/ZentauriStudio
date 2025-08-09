@@ -1,4 +1,4 @@
-# Luis Sebastian | Zentauri Studio
+# Luis Shagñay | Zentauri Studio
 
 <div align="center">
   
@@ -18,7 +18,7 @@
   <table border="0" cellpadding="20" cellspacing="0" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Sebastian - Perfil Profesional">
+        <img src="https://drive.google.com/uc?export=view&id=1YTJUiwHEzvUVB5bHAark8EvXvOM-ojHS" width="150" style="border-radius: 50%; border: 4px solid #4F46E5;" alt="Luis Shagñay - Perfil Profesional">
         <h3 style="color: #4F46E5; margin-top: 15px;">Luis Sebastian</h3>
         <p><em>Fundador y Desarrollador Principal</em></p>
       </td>
@@ -26,7 +26,7 @@
         <h3>🚀 Perfil Profesional</h3>
         <ul style="list-style: none; padding: 0;">
           <li>🎯 <strong>Fundador y CEO</strong> de Zentauri Studio</li>
-          <li>📱 <strong>Experto en Flutter</strong> con más de 3 años de experiencia</li>
+          <li>📱 <strong>Experto en Flutter</strong> con más de 2 años de experiencia</li>
           <li>🗄️ <strong>Arquitecto Backend</strong> especializado en soluciones escalables</li>
           <li>🎨 <strong>Diseñador UI/UX</strong> enfocado en experiencias centradas en el usuario</li>
           <li>⚡ <strong>Desarrollador Full-Stack</strong> apasionado por la innovación</li>
@@ -130,7 +130,7 @@
 <div align="center">
 
 ### 📱 Desarrollo Móvil
-<img src="https://skillicons.dev/icons?i=flutter,dart,android,apple,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" />
 
 ### 🗄️ Backend y Base de Datos
 <img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,nodejs,express,mongodb" />
@@ -142,25 +142,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,vercel,netlify,postman" />
 
 ### ☁️ Cloud y DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,heroku,nginx,linux" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,heroku,nginx,linux" />
 
-</div>
-
----
-
-## 📊 Análisis de GitHub
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ZentauriStudio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4f46e5&icon_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=Estadísticas%20de%20GitHub"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZentauriStudio&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4f46e5&text_color=ffffff&border_color=4f46e5&border_radius=15&custom_title=Lenguajes%20Más%20Utilizados"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZentauriStudio&theme=tokyonight&background=0d1117&ring=4f46e5&fire=4f46e5&currStreakLabel=4f46e5&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&border=4f46e5&border_radius=15" alt="Estadísticas de Racha de GitHub"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZentauriStudio&theme=tokyo-night&bg_color=0d1117&color=4f46e5&line=4f46e5&point=ffffff&area=true&hide_border=false&border_radius=15" alt="Gráfico de Contribuciones"/>
 </div>
 
 ---
