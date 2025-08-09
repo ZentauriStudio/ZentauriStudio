@@ -154,7 +154,7 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Proyectos%20Entregados-15+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Proyectos">
+        <img src="https://img.shields.io/badge/Proyectos%20Entregados-3+-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Proyectos">
         <h4>Proyectos Exitosos</h4>
       </td>
       <td align="center" width="25%">
@@ -167,7 +167,7 @@
       </td>
       <td align="center" width="25%">
         <img src="https://img.shields.io/badge/Tiempo%20de%20Respuesta-2h-4F46E5?style=for-the-badge&labelColor=0d1117" alt="Respuesta">
-        <h4>Tiempo Promedio de Respuesta</h4>
+        <h4>Tiempo de Respuesta</h4>
       </td>
     </tr>
   </table>
