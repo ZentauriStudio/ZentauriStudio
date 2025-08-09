@@ -10,7 +10,7 @@
 
 <!-- ========== SECCIÓN DE PERFIL ========== -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80" alt="Developer GIF">
+  <img src="https://drive.google.com/file/d/1in750jxEyrESkbQnbd51T4zNsI9PN1qI/view?usp=sharing" width="80" alt="Developer GIF">
   
   <h3>🎯 Fundador y CEO de Zentauri Studio</h3>
   <p><em>Especialista en Desarrollo Móvil con Flutter | Backend Expert | UI/UX Designer</em></p>
