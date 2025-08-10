@@ -191,7 +191,7 @@
     <a href="mailto:zentauri.studio@gmail.com">
       <img src="https://img.shields.io/badge/📧%20Consultoría%20por%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="margin: 5px;">
     </a>
-    <a href="https://zentauri-portfolio.vercel.app">
+    <a href="https://zentauristudio.vercel.app/">
       <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portafolio" style="margin: 5px;">
    
     
